@@ -3,7 +3,7 @@ Forked to add scopes to params for additional Google API authorization
 
 ```
 googleSignInParams: {
-          client_id: '154861387780-spg7q8pv0q2k6plfk1dhrb6vgm080049.apps.googleusercontent.com',
+          client_id: ' ',
           scope: 'email https://www.googleapis.com/auth/drive'
         }
 ```
